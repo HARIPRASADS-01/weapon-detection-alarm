@@ -19,7 +19,7 @@ This project implements a real-time object detection system using a custom-train
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/object-detection-with-alarm.git
+    git clone https://github.com/HARIPRASADS-01/weapon-detection-alarm.git
     cd object-detection-with-alarm
     ```
 
