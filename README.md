@@ -4,7 +4,7 @@ This project implements a real-time object detection system using a custom-train
 
 ## Features
 
-- **Real-time Object Detection**: Detects objects in a live video stream using the YOLOv5 model.
+- **Real-time Weapon Detection**: Detects weapon in a live video stream using the YOLOv5 model.
 - **Weapon Detection**: Triggers an alarm when a weapon is detected in the video feed.
 - **High FPS**: Optimized for fast processing to maintain high frames per second (FPS).
 - **Custom Detection Model**: You can customize the model by training your own YOLOv5 model or use the provided `weapon.pt`.
@@ -38,7 +38,7 @@ This project implements a real-time object detection system using a custom-train
 4. **Run the application**:
 
     ```bash
-    python object_detection.py
+    python weapon_detection.py
     ```
 
     The system will start capturing video from your webcam and perform real-time object detection.
