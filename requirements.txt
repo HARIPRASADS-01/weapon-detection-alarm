@@ -1,0 +1,5 @@
+torch>=1.7.0
+opencv-python>=4.5.3
+numpy>=1.19.5
+pygame>=2.0.1
+yolov5 @ git+https://github.com/ultralytics/yolov8.git
